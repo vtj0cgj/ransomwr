@@ -103,6 +103,7 @@ fn decrypt_directory_recursive(directory: &str, password: &str) -> Result<(), Bo
 }
 
 fn main() {
+    println!("Welcome to the decryption software for the [PLACEHOLDER] ransomware software");
     // Get the command-line arguments
     let args: Vec<String> = env::args().collect();
 
