@@ -166,6 +166,7 @@ fn encrypt_directory_recursive(directory: &str, password: &str) -> Result<(), Bo
 }
 
 fn main() {
+    println!("Welcome to your computers demise ;D");
     // Get the command-line arguments
     let args: Vec<String> = env::args().collect();
 
