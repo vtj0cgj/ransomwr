@@ -5,6 +5,6 @@ Some borring ransomware i have written because writing malware is fun, no intent
 
 If you were to get hit by ransomware and you can recgonise it as this software, the decryption software is provided in the releases (working on that)
 
-if you would like to commit, go ahead just dont be an appleshit
+if you would like to commit, go ahead just dont be an asshole
 
 thanks for reading ;D
