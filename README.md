@@ -7,4 +7,5 @@ If you were to get hit by ransomware and you can recgonise it as this software, 
 
 if you would like to commit, go ahead just dont be an asshole
 
-thanks for reading
+thanks for reading(:
+yuh
